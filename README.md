@@ -1,7 +1,9 @@
-<h1 align='center'> HI :rocket: </h1>
+<h1 align='center'> <img height='50' src='https://user-images.githubusercontent.com/52014318/82154867-2d664b00-9847-11ea-8a11-b972c6575835.png' /></h1>
 
-### A complete cart for ecommerce :star: :rocket: example project with redux and redux-saga
-
+<h2 align='center'> :star: :rocket: example project with redux and redux-saga <h2>
+  
+A complete cart for ecommerce 
+  
 ***
 
 ## GIFs
